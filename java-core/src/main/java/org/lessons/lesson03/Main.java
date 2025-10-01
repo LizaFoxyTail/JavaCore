@@ -84,3 +84,15 @@ class Car {
 }
 
 //4 task
+class BankAccount{
+    String fio;
+    int AccountNumber;
+    double balance;
+
+    public BankAccount(String fio, int AccountNumber, double balance) {
+        this.fio = fio;
+        this.AccountNumber = AccountNumber;
+        this.balance = balance;
+
+    }
+}
