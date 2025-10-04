@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCore.iml" filepath="$PROJECT_DIR$/.idea/JavaCore.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core.iml" filepath="$PROJECT_DIR$/java-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-core.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-core.test.iml" />
     </modules>
   </component>
 </project>
