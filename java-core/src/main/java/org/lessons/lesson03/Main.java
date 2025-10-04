@@ -27,6 +27,12 @@ public class Main {
         int year = in.nextInt();
         Car car1 = new Car(country, model, year);
         car1.printCarInfo();
+    //__________________________________________________//
+        BankAccount account = new BankAccount("Иванов Иван", 1, 1000);
+        account.deposit();
+        account.withdraw();
+        account.withdraw();
+        System.out.println("Текущий баланс: " + account.GetBalance());
     }
 }
 
