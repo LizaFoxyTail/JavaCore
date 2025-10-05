@@ -1,4 +1,4 @@
-package org.lessons.lesson02.drawingStars;
+package lessons.lesson02.drawingStars;
 
 public class Main {
     public static void main(String[] args) {

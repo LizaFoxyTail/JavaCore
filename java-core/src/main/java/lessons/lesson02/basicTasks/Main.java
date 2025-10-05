@@ -1,4 +1,4 @@
-package org.lessons.lesson02.basicTasks;
+package lessons.lesson02.basicTasks;
 
 
 import java.util.Scanner;

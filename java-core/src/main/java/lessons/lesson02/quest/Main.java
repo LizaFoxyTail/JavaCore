@@ -1,4 +1,4 @@
-package org.lessons.lesson02.quest;
+package lessons.lesson02.quest;
 
 import java.util.Scanner;
     public class Main {
